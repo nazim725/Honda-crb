@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background: #264653;
+}
+.login-button{
+    background: #E76F51;
+    width: 78px;
+    height: 38px;
+}
+.purchase-button{
+    background: #E76F51;
+    width: 160px;
+    height: 38px;
+    
+}
+.p1{
+    font-size: 14px;
+}
+.p2{
+    font-size: 16px;
+}
+.gray-scale:hover{
+    filter: grayscale(200);
+    
+}
+h6{
+    font-size: 20px;
+}
+footer{
+    background-color: #0B0D17;
+}
+.app{
+    font-size: 20px;
+}
+.apple{
+    font-size: 30px;
+}
+.btn-play{
+    width: 200px;
+}
+.app-button{
+    margin-left: 60px;
+}
