@@ -21,10 +21,10 @@ header{
 .p2{
     font-size: 16px;
 }
-.gray-scale:hover{
+.gray-scale{
     filter: grayscale(200);
-    
 }
+
 h6{
     font-size: 20px;
 }
